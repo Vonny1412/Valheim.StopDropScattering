@@ -12,10 +12,14 @@ This mod detects those drops and moves them directly to the nearest player insid
 
 ## Multiplayer / Testing Status
 
-* ✅ Works in singleplayer / local games
-* ⚠️ Not fully tested on dedicated servers
+* ✅ Works in singleplayer / local games  
+* ⚠️ Not fully tested on dedicated servers  
 
 Feedback from multiplayer/server testing is very welcome.
+
+**Important:**  
+For multiplayer testing, the mod must be installed on both client and server.  
+Requires Jotunn.
 
 ## How it works (short)
 
