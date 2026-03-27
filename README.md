@@ -1,5 +1,7 @@
 # StopDropScattering
 
+[GitHub Repository](https://github.com/Vonny1412/Valheim.StopDropScattering)
+
 Prevents dungeon mining drops from being scattered outside the dungeon.
 
 ## What it does
