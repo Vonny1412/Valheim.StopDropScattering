@@ -11,7 +11,7 @@
 	<PropertyGroup>
 		<VersionMajor>0</VersionMajor>
 		<VersionMinor>1</VersionMinor>
-		<VersionPatch>0</VersionPatch>
+		<VersionPatch>1</VersionPatch>
 		<VersionSuffix></VersionSuffix>
 		<Authors>Yvonne Pautz</Authors>
 		<Product>StopDropScattering</Product>
@@ -42,6 +42,10 @@
 	  <Compile Remove="publish\**" />
 	  <EmbeddedResource Remove="publish\**" />
 	  <None Remove="publish\**" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Remove=".publish.bat" />
+	  <None Remove=".publish.ps1" />
 	</ItemGroup>
 
 </Project>

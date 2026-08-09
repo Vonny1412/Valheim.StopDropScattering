@@ -33,4 +33,4 @@ MIT
 
 ---
 
-*Created with ♥️ — and AI-assisted tools as a supporting tool*
+*Created with ♥️ — and AI assistance*
