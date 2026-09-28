@@ -1,4 +1,3 @@
-
 # StopDropScattering
 
 [GitHub Repository](https://github.com/Vonny1412/Valheim.StopDropScattering)
