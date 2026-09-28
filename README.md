@@ -12,11 +12,9 @@ This mod detects those drops and moves them directly to the nearest player insid
 
 ## Multiplayer
 
-Works in both singleplayer and multiplayer.
+For reliable behavior in multiplayer, the mod should be installed on the server and on all clients.
 
-In multiplayer, the mod must be installed on both client and server.
-
-Requires Jotunn.
+The mod does not enforce this requirement. Players without the mod can still connect, but some drops may not be handled correctly.
 
 ## How it works (short)
 

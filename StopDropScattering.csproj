@@ -10,8 +10,8 @@
 
 	<PropertyGroup>
 		<VersionMajor>1</VersionMajor>
-		<VersionMinor>0</VersionMinor>
-		<VersionPatch>1</VersionPatch>
+		<VersionMinor>1</VersionMinor>
+		<VersionPatch>0</VersionPatch>
 		<VersionSuffix></VersionSuffix>
 		<Authors>Yvonne Pautz</Authors>
 		<Product>StopDropScattering</Product>
@@ -27,13 +27,6 @@
 	<PropertyGroup>
 		<CopyToPluginsSubDirectory>StopDropScattering</CopyToPluginsSubDirectory>
 	</PropertyGroup>
-
-	<ItemGroup>
-		<Reference Include="Jotunn">
-			<HintPath>..\.References\Jotunn.dll</HintPath>
-			<Private>False</Private>
-		</Reference>
-	</ItemGroup>
 
 	<Import Project="$(SolutionDir)\Valheim.Paths.props" />
 	<Import Project="$(SolutionDir)\Valheim.Libraries.props" />
