@@ -9,9 +9,9 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<VersionMajor>0</VersionMajor>
-		<VersionMinor>1</VersionMinor>
-		<VersionPatch>1</VersionPatch>
+		<VersionMajor>1</VersionMajor>
+		<VersionMinor>0</VersionMinor>
+		<VersionPatch>0</VersionPatch>
 		<VersionSuffix></VersionSuffix>
 		<Authors>Yvonne Pautz</Authors>
 		<Product>StopDropScattering</Product>
@@ -25,7 +25,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<CopyToPluginsSubDirectory>Vonny1412.StopDropScattering</CopyToPluginsSubDirectory>
+		<CopyToPluginsSubDirectory>StopDropScattering</CopyToPluginsSubDirectory>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -38,6 +38,7 @@
 	<Import Project="$(SolutionDir)\Valheim.Paths.props" />
 	<Import Project="$(SolutionDir)\Valheim.Libraries.props" />
 	<Import Project="$(SolutionDir)\Valheim.Mods.targets" />
+  
 	<ItemGroup>
 	  <Compile Remove="publish\**" />
 	  <EmbeddedResource Remove="publish\**" />

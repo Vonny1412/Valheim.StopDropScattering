@@ -3,3 +3,7 @@
 ## v0.1.0
 
 * Initial public release
+
+## v1.0.0
+
+- Promoted the mod from beta to stable release
