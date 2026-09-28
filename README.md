@@ -10,15 +10,12 @@ When mining inside dungeons (like crypts), items can sometimes end up outside in
 
 This mod detects those drops and moves them directly to the nearest player inside the dungeon.
 
-## Multiplayer / Testing Status
+## Multiplayer
 
-* ✅ Works in singleplayer / local games  
-* ⚠️ Not fully tested on dedicated servers  
+Works in both singleplayer and multiplayer.
 
-Feedback from multiplayer/server testing is very welcome.
+In multiplayer, the mod must be installed on both client and server.
 
-**Important:**  
-For multiplayer testing, the mod must be installed on both client and server.  
 Requires Jotunn.
 
 ## How it works (short)
