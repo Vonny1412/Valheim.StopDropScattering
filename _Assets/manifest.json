@@ -4,7 +4,7 @@
   "website_url": "https://github.com/Vonny1412/Valheim.StopDropScattering",
   "description": "Prevents dungeon mining drops from ending up outside the dungeon",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2350",
-    "ValheimModding-Jotunn-2.30.0"
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
   ]
 }
