@@ -37,9 +37,6 @@
 	  <EmbeddedResource Remove="publish\**" />
 	  <None Remove="publish\**" />
 	</ItemGroup>
-	<ItemGroup>
-	  <None Remove=".publish.bat" />
-	  <None Remove=".publish.ps1" />
-	</ItemGroup>
+
 
 </Project>
