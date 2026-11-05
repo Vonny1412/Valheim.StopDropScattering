@@ -15,3 +15,8 @@
 ## v1.1.0
 
 - Removed Jotunn dependency
+
+## v1.2.0
+
+- Improved drop handling
+- Mining drops are now placed near the player who destroyed the rock

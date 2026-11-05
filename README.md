@@ -2,13 +2,15 @@
 
 [GitHub Repository](https://github.com/Vonny1412/Valheim.StopDropScattering)
 
-Prevents dungeon mining drops from being scattered outside the dungeon.
+Prevents mining drops from being scattered outside dungeons.
 
 ## What it does
 
-Valheim dungeons exist high above the regular world. When mining inside dungeons (like crypts), dropped items can sometimes escape the dungeon and fall all the way down to the world below, ending up scattered around the entrance.
+StopDropScattering adjusts the spawn position of items dropped from mineable rocks inside Sunken Crypts.
 
-StopDropScattering detects these drops and moves them directly to the nearest player inside the dungeon.
+Instead of spawning at the mined rock, these items appear directly near the player who mined it.
+
+**The mod does not change which items drop, their drop rates, or their quantities.** It only adjusts their spawn position.
 
 ## Multiplayer
 
